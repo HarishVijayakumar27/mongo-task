@@ -6,10 +6,7 @@ const dbName = "testing";
 const convertPaisaToRupee = (paisa) => paisa / 100;
 
 const processTransactions = async () => {
-  const client = new MongoClient(uri, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  });
+  const client = new MongoClient(uri);
 
   try {
     await client.connect();
@@ -56,7 +53,25 @@ const processTransactions = async () => {
         const matchingWallet = wallets.find(
           (w) => w.clientId === matchingService.clientId
         );
-
+        const matchingWalletUpdate = wallets.find(
+          (w) => {
+            return w.clientId === matchingService.clientId
+          }
+        );
+        const updateBalance = (updateValue) => wallets.find(
+          (w) => {
+            console.log(updateValue)
+            console.log(matchingWalletUpdate)
+              if(matchingWallet){
+                db.collection('wallet').updateOne(
+                  { _id: w.clientId },
+                  { $set: { debited: updateValue } }
+                );
+              }
+            }
+            
+          
+        )
         if (matchingClient && matchingWallet) {
           // Convert wallet amounts
           const credited = convertPaisaToRupee(matchingWallet.credited);
@@ -67,6 +82,10 @@ const processTransactions = async () => {
           if (balance < transaction.bankTransfer) {
             clientId = matchingClient.clientId;
             status = "transaction successful";
+            
+            updateBalance(balance)
+
+            console.log('wallet: ', wallets)
           } else {
             status = "insufficient funds";
           }
