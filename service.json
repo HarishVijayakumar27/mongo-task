@@ -1,0 +1,234 @@
+{
+  "_id": {
+    "$oid": "67599979ed522280f15f4657"
+  },
+  "status": true,
+  "mccCode": "5618",
+  "clientId": "94e29939-0787-49f0-b0a5-61ea3edad587",
+  "ipWhitelist": [
+    "106.51.92.236"
+  ],
+  "dynamicKeysValue": [
+    {
+      "key": "VBASUBSTRING",
+      "value": "coffeeRaj"
+    }
+  ],
+  "serviceId": "6d96b9ed-f873-463e-a047-d0749cdbed0b",
+  "settlementAcc": [
+    {
+      "accountHolderName": "Dinesh M",
+      "accountNumber": "37901596186",
+      "bankName": "KVB",
+      "ifscCode": "KVBL0001180",
+      "verified": false,
+      "status": true,
+      "_id": {
+        "$oid": "67599a77ed522280f15f4b7b"
+      },
+      "createdAt": {
+        "$date": "2024-12-11T13:58:15.722Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:58:15.722Z"
+      }
+    }
+  ],
+  "remitterAcc": [],
+  "documents": [
+    {
+      "documentName": "application link",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/application%20link_1733925378145.pdf",
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a0"
+      },
+      "documentId": "10a177b4-8fcc-4f1e-8ebf-549b2503032b",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      }
+    },
+    {
+      "documentName": "business address proof (electricity bill / bank statement)",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/businessaddressproofelectricitybill/bank%20statement_1733925384436.pdf",
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a1"
+      },
+      "documentId": "c2581b05-3e0e-45c4-a9ee-3c8972ee3724",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      }
+    },
+    {
+      "documentName": "cancelled cheque",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/cancelled%20cheque_1733925387854.pdf",
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a2"
+      },
+      "documentId": "5edc3ba9-4e21-4d11-90df-5eecfcedc3e5",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      }
+    },
+    {
+      "documentName": "nda",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/nda_1733925400979.pdf",
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a3"
+      },
+      "documentId": "b92654ca-6534-4d60-8a48-78ba9d15336f",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      }
+    },
+    {
+      "documentName": "sla",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/sla_1733925391791.pdf",
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a4"
+      },
+      "documentId": "7d86ca26-8552-4e39-8de7-4120a22196cc",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      }
+    }
+  ],
+  "encryptionKey": "6f328bae97a227c2ba7d2c15abef4e73a51c20f40e5a5dcafb1b3400d8ae85f1611018392f8a0741ac2e17a9",
+  "createdAt": {
+    "$date": "2024-12-11T13:54:01.119Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-11T13:54:01.120Z"
+  },
+  "__v": 0,
+  "commission": {
+    "clientCommission": {
+      "commissionBasis": "GENERIC",
+      "genericCommission": {
+        "$oid": "67599a21ed522280f15f4808"
+      },
+      "_id": {
+        "$oid": "67599a21ed522280f15f480c"
+      }
+    },
+    "resellerCommission": {
+      "commissionBasis": "GENERIC",
+      "genericCommission": {
+        "$oid": "67599ae7ed522280f15f4f09"
+      },
+      "_id": {
+        "$oid": "67599ae7ed522280f15f4f0e"
+      }
+    },
+    "spCommission": {
+      "commissionBasis": "GENERIC",
+      "genericCommission": {
+        "$oid": "6752b74c31c69ada4b607830"
+      },
+      "_id": {
+        "$oid": "675999e2ed522280f15f468e"
+      }
+    },
+    "nkCommission": {
+      "commissionBasis": "GENERIC",
+      "genericCommission": {
+        "$oid": "67599a2ced522280f15f48c9"
+      },
+      "_id": {
+        "$oid": "67599a2ced522280f15f48cc"
+      }
+    }
+  },
+  "mechanism": "QR",
+  "serviceProviderName": "fino",
+  "serviceProviderType": "payin",
+  "spId": "5351cff7-a2fa-497d-a278-b1f490ad2d7f",
+  "settlementDetails": {
+    "method": "cycles",
+    "cycles": [
+      {
+        "name": "Cycle 1",
+        "from": {
+          "$date": "2024-12-05T18:30:24.320Z"
+        },
+        "to": {
+          "$date": "2024-12-06T02:29:24.320Z"
+        },
+        "triggerTime": "10:30",
+        "fromDay": true,
+        "toDay": true,
+        "_id": {
+          "$oid": "67599a24ed522280f15f4864"
+        }
+      },
+      {
+        "name": "Cycle 2",
+        "from": {
+          "$date": "2024-12-06T02:30:24.320Z"
+        },
+        "to": {
+          "$date": "2024-12-06T07:59:24.320Z"
+        },
+        "triggerTime": "03:00",
+        "fromDay": true,
+        "toDay": true,
+        "_id": {
+          "$oid": "67599a24ed522280f15f4865"
+        }
+      },
+      {
+        "name": "Cycle 3",
+        "from": {
+          "$date": "2024-12-06T08:00:24.320Z"
+        },
+        "to": {
+          "$date": "2024-12-06T18:29:24.320Z"
+        },
+        "triggerTime": "00:00",
+        "fromDay": true,
+        "toDay": true,
+        "_id": {
+          "$oid": "67599a24ed522280f15f4866"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "67599a24ed522280f15f4863"
+    },
+    "createdAt": {
+      "$date": "2024-12-11T13:56:52.971Z"
+    },
+    "modifiedAt": {
+      "$date": "2024-12-11T13:56:52.971Z"
+    }
+  },
+  "transactionLimits": {
+    "maxTransactionVolume": 10000,
+    "maxTransactionAmt": 1000,
+    "minTransactionVolume": 100,
+    "minTransactionAmt": 100,
+    "_id": {
+      "$oid": "67599a63ed522280f15f4acb"
+    }
+  },
+  "notifyUrl": "https://bcrm.neokred.tech/leads/94e29939-0787-49f0-b0a5-61ea3edad587",
+  "clientUpiId": "neo.nktest@finobank",
+  "merchantId": "7080784885130776576",
+  "vpaId": "7080784885143359488",
+  "walletId": "67599ba5ed522280f15f5242"
+}
+

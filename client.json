@@ -1,0 +1,167 @@
+{
+  "_id": {
+    "$oid": "67599939ed522280f15f4648"
+  },
+  "clientId": "94e29939-0787-49f0-b0a5-61ea3edad587",
+  "resellerId": "08607ed7-ae73-4ebc-8f67-4f6d3698af2c",
+  "resellerName": "Dinesh Reseller",
+  "rootRefId": "e9f6815a-a745-4c17-ad4b-f285df247c36",
+  "firstName": "Karna",
+  "lastName": "Raj",
+  "email": "dinesh+5@neokred.tech",
+  "mobileNumber": "9347383737",
+  "businessName": "NELLAI KARUPATTI COFFEE",
+  "isKycVerified": false,
+  "status": true,
+  "serviceId": [
+    {
+      "$oid": "67599979ed522280f15f4657"
+    }
+  ],
+  "isInternal": false,
+  "clientOnboardStatus": "APPROVED",
+  "leadId": "94e29939-0787-49f0-b0a5-61ea3edad587",
+  "documents": [
+    {
+      "documentName": "application link",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/application%20link_1733925378145.pdf",
+      "documentId": "447f59d1-0902-4b95-b293-bf77556124bf",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:18.420Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:18.420Z"
+      },
+      "_id": {
+        "$oid": "67599a02ed522280f15f46f0"
+      }
+    },
+    {
+      "documentName": "business address proof (electricity bill / bank statement)",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/businessaddressproofelectricitybill/bank%20statement_1733925384436.pdf",
+      "documentId": "e2921aad-acd4-4cfd-b53a-18cf87683748",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:24.561Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:24.561Z"
+      },
+      "_id": {
+        "$oid": "67599a08ed522280f15f4714"
+      }
+    },
+    {
+      "documentName": "cancelled cheque",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/cancelled%20cheque_1733925387854.pdf",
+      "documentId": "1648e4f7-cf3d-4296-be7b-467aad0b420f",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:27.963Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:27.963Z"
+      },
+      "_id": {
+        "$oid": "67599a0bed522280f15f473e"
+      }
+    },
+    {
+      "documentName": "sla",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/sla_1733925391791.pdf",
+      "documentId": "618c3176-6fa7-4c8e-95d0-d9a6ff5dc478",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:31.947Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:31.947Z"
+      },
+      "_id": {
+        "$oid": "67599a0fed522280f15f476e"
+      }
+    },
+    {
+      "documentName": "nda",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/nda_1733925400979.pdf",
+      "documentId": "b92654ca-6534-4d60-8a48-78ba9d15336f",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a3"
+      }
+    },
+    {
+      "documentName": "application link",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/application%20link_1733925378145.pdf",
+      "documentId": "10a177b4-8fcc-4f1e-8ebf-549b2503032b",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a0"
+      }
+    },
+    {
+      "documentName": "business address proof (electricity bill / bank statement)",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/businessaddressproofelectricitybill/bank%20statement_1733925384436.pdf",
+      "documentId": "c2581b05-3e0e-45c4-a9ee-3c8972ee3724",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a1"
+      }
+    },
+    {
+      "documentName": "cancelled cheque",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/cancelled%20cheque_1733925387854.pdf",
+      "documentId": "5edc3ba9-4e21-4d11-90df-5eecfcedc3e5",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a2"
+      }
+    },
+    {
+      "documentName": "sla",
+      "documentUrl": "https://core-admin-prod.s3.ap-south-1.amazonaws.com/productDeck/Karna_Raj_94e29939-0787-49f0-b0a5-61ea3edad587/Document/sla_1733925391791.pdf",
+      "documentId": "7d86ca26-8552-4e39-8de7-4120a22196cc",
+      "createdAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "modifiedAt": {
+        "$date": "2024-12-11T13:56:41.122Z"
+      },
+      "_id": {
+        "$oid": "67599a19ed522280f15f47a4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-11T13:52:57.461Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-11T14:03:17.567Z"
+  },
+  "__v": 0,
+  "businessType": "PROPRIETORSHIP",
+  "dPanNumber": "FCNPD3595M",
+  "dinNumber": "12345678",
+  "gstNumber": "33CEEPN4687L1ZZ",
+  "industryType": "GAMING",
+  "legalName": "NOOHUSHA",
+  "panNumber": "CEEPN4687L",
+  "websiteLink": "https://bcrm.neokred.tech/leads/94e29939-0787-49f0-b0a5-61ea3edad587"
+}

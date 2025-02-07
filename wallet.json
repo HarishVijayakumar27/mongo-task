@@ -1,0 +1,22 @@
+{
+    "_id": {
+    "$oid": "67599ba5ed522280f15f5242"
+  },
+  "clientId": "94e29939-0787-49f0-b0a5-61ea3edad587",
+  "serviceId": "6d96b9ed-f873-463e-a047-d0749cdbed0b",
+  "spId": "5351cff7-a2fa-497d-a278-b1f490ad2d7f",
+  "debited": 200,
+  "credited": 985.84,
+  "settled": 200,
+  "closingBalance": 785.84,
+  "resellerId": "08607ed7-ae73-4ebc-8f67-4f6d3698af2c",
+  "rootRefId": "e9f6815a-a745-4c17-ad4b-f285df247c36",
+  "walletUniqueId": "ed2ddb84-e363-4c82-b6a2-2b6c351872c2",
+  "createdAt": {
+    "$date": "2024-12-11T14:03:17.551Z"
+  },
+  "modifiedAt": {
+    "$date": "2024-12-11T14:03:17.552Z"
+  },
+  "__v": 0
+}
